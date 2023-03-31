@@ -1,0 +1,22 @@
+package in.banking.Model;
+
+public class Customer {
+
+	public void setCustomerID(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setCustomerName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setEmpSal(double d) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	
+	
+
+}

@@ -1,0 +1,20 @@
+package in.banking.Model;
+
+public class Employee {
+
+	public void setEmpId(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setEmpName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setEmpSal(double d) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
